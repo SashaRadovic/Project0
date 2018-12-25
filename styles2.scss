@@ -92,3 +92,31 @@ p {
     justify-content:space-around;
 
 }
+table {
+  border: 2px solid black;
+  border-collapse: collapse;
+  text-align: left;
+  width: 80%;
+}
+th,
+td {
+  border: 1px solid black;
+  padding: 5px;
+}
+body {
+  background-image: url(images/background.jpg);
+
+  background-size: 100% 100%;
+}
+img {
+  width: 80%;
+  height: auto;
+}
+.row > div {
+                padding: 20px;
+                background-color: lightgrey;
+                border: 2px solid black;
+                border-collapse: collapse;
+                margin-top: 20px;
+                margin-right: 20px;
+}

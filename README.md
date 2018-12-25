@@ -10,7 +10,7 @@ stuff1.html page contains an image, unordered list, ordered list nad id with lin
 
 stuff2.html page contains an image,  an ordered list and id with link pointing at top ov the page
 
-about page contains  four responsive BS columns with links to readme file, video, contact e mail and additional content page.
+about.html page contains  three responsive BS columns with links to readme file, video,  and contact e mail.
 
 styles2.css file contains customization for page elements and media query for smaller devices.
 
